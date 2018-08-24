@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1507323211 source:c:\development\c\exercises\challenge1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
+1507352400 source:c:\development\c\assignments\challenge1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
